@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently pursuing MCA<br>🌱 I’m currently learning<br>
+👋 Hey there! I'm Aditya
+🔭 I’m currently pursuing MCA<br>🚀 Always learning something new.  <br>
 
 
 ## 🌐 Socials:

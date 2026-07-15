@@ -1,6 +1,11 @@
 # 💫 About Me:
-👋 Hey there! I'm Aditya
-🔭 I’m currently pursuing MCA<br>🚀 Always learning something new.  <br>
+
+👋 Hi, I'm **Aditya**
+🎓 MCA Student passionate about **Java Development, Full-Stack Web Development, and Software Engineering**.
+💻 I enjoy building modern web applications, Android apps, and exploring new technologies.
+🚀 Currently sharpening my skills in **Java, Spring Boot, SQL, HTML, CSS, JavaScript, and Git**.
+🌱 Always learning, always building, and always striving to become a better developer.
+  <br>
 
 
 ## 🌐 Socials:
